@@ -64,7 +64,7 @@ This dataset was originally extracted from the 1994 U.S. Census by Barry Becker 
 
 
     ```
-    git clone https://github.com/gappeah//Income-Prediction-ML.git
+    git clone https://github.com/garance//Income-Prediction-ML.git
     ```
 ## File Structure
 
